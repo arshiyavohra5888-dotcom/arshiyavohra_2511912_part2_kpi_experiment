@@ -37,3 +37,49 @@ Before recommending a full rollout, compare the Control and Treatment groups usi
 * Refund requests
 
 The recommendation should only be made if the Treatment group demonstrates improved business performance without causing significant negative effects on customer experience or operational metrics.
+
+
+
+--------------------------------------------------------------------------------------------------
+
+# North Star Metric
+
+## Selected North Star Metric
+
+**Paid Conversion Rate**
+
+## Why This is the Main Success Metric
+
+Paid Conversion Rate directly measures the percentage of users who become paying customers after experiencing the onboarding flow. It reflects the overall success of the onboarding campaign and directly contributes to business revenue.
+
+## Supporting Metrics
+
+The following metrics support the North Star Metric:
+
+* Trial Start Rate
+* Onboarding Completion Rate
+* Revenue in First 30 Days
+* Engagement Score
+* Days to Convert
+
+These metrics explain *why* conversion improves but are not the primary business outcome.
+
+## Connection to Business Growth
+
+Higher paid conversion leads to:
+
+* Increased recurring revenue
+* Better customer acquisition efficiency
+* Improved customer lifetime value
+* Sustainable business growth
+
+## Risk of Optimizing Only This Metric
+
+Focusing only on Paid Conversion Rate may:
+
+* Increase customer support workload
+* Increase refund requests
+* Reduce user satisfaction
+* Encourage aggressive onboarding that hurts long-term retention
+
+Therefore, guardrail metrics should always be monitored alongside the North Star Metric.
