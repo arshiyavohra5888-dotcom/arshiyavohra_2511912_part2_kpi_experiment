@@ -40,8 +40,6 @@ The recommendation should only be made if the Treatment group demonstrates impro
 
 
 
---------------------------------------------------------------------------------------------------
-
 # North Star Metric
 
 ## Selected North Star Metric
